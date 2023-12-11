@@ -4,6 +4,9 @@
             <div class="wrap__title">
                 
             </div>
+            <div class="wrap__text">
+                
+            </div>
         </div>
     </div>
 </template>
