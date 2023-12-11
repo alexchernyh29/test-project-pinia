@@ -1,6 +1,8 @@
 <template>
     <div>
-
+        <div class="wrap">
+            
+        </div>
     </div>
 </template>
 
