@@ -10,6 +10,6 @@ console.log()
 
 <style lang="scss" scoped>
 .main {
-
+ position: relative;
 }
 </style>
