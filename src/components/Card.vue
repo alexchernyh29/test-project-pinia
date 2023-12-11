@@ -5,9 +5,11 @@
 </template>
 
 <script setup>
-
+console.log()
 </script>
 
 <style lang="scss" scoped>
+.main {
 
+}
 </style>
